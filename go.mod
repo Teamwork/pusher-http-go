@@ -1,4 +1,4 @@
-module github.com/pusher/pusher-http-go
+module github.com/teamwork/pusher-http-go
 
 go 1.15
 
