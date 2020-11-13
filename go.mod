@@ -1,4 +1,4 @@
-module github.com/teamwork/pusher-http-go/v6
+module github.com/teamwork/pusher-http-go/v7
 
 go 1.15
 
